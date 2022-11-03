@@ -25,6 +25,7 @@ cask 'numi'
 cask 'postgres-unofficial'
 cask 'protonvpn'
 cask 'rectangle'
+cask 'slack'
 cask 'tg-pro'
 # Need to Manually Install Pro Version
 # cask 'turbo-boost-switcher'
