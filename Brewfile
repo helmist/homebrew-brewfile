@@ -19,6 +19,7 @@ cask 'cyberduck'
 cask 'discord'
 cask 'firefox'
 cask 'keka'
+cask 'lastpass'
 cask 'notion'
 cask 'numi'
 # cask 'postico' # Awaiting postico 2
