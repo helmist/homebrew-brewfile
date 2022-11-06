@@ -17,6 +17,7 @@ brew 'wget'
 # application cask(s)
 cask 'cyberduck'
 cask 'discord'
+cask 'drawio'
 cask 'firefox'
 cask 'keka'
 cask 'lastpass'
