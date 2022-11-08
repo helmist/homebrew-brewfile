@@ -25,6 +25,7 @@ cask 'notion'
 cask 'numi'
 # cask 'postico' # Awaiting postico 2
 cask 'postgres-unofficial'
+cask 'postman'
 cask 'protonvpn'
 cask 'rectangle'
 cask 'slack'
