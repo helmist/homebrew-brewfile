@@ -4,6 +4,8 @@ cask_args appdir: '/Applications'
 tap 'homebrew/cask'
 # for font support
 tap 'homebrew/cask-fonts'
+# for cask version support
+tap 'homebrew/cask-versions'
 
 # regular brew(s)
 brew 'mas'
@@ -19,6 +21,7 @@ cask 'cyberduck'
 cask 'discord'
 cask 'drawio'
 cask 'firefox'
+cask 'firefox-developer-edition'
 cask 'keka'
 cask 'lastpass'
 cask 'notion'
