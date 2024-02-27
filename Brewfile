@@ -10,7 +10,8 @@ tap 'homebrew/cask-versions'
 # regular brew(s)
 brew 'mas'
 brew 'node'
-brew 'rustup-init'
+# commenting out as cargo's hard link causes issues
+# brew 'rustup-init'
 brew 'sqlite'
 brew 'tree'
 brew 'tmux'
@@ -26,6 +27,7 @@ cask 'keka'
 cask 'lastpass'
 cask 'notion'
 cask 'numi'
+cask 'obsidian'
 # cask 'postico' # Awaiting postico 2
 cask 'postgres-unofficial'
 cask 'postman'
@@ -39,6 +41,8 @@ cask 'visual-studio-code'
 cask 'zoom'
 
 # font cask(s)
+cask 'font-b612'
+cask 'font-b612-mono'
 cask 'font-fira-code'
 cask 'font-fira-mono'
 cask 'font-fira-sans'
@@ -50,6 +54,7 @@ cask 'font-cascadia-code-pl'
 mas 'Amphetamine', id: 937984704
 mas 'Calcbot', id: 931657367
 mas 'Textual 7', id: 1262957439
+mas 'Microsoft OneDrive', id: 823766827
 mas 'Microsoft OneNote', id: 784801555
 mas 'Microsoft Outlook', id: 985367838
 mas 'Microsoft Word', id: 462054704
