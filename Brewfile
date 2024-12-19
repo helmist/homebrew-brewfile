@@ -66,7 +66,7 @@ cask 'font-overpass'
 cask 'font-overpass-mono'
 cask 'font-raleway'
 cask 'font-roboto-slab'
-casl 'font-zilla-slab'
+cask 'font-zilla-slab'
 
 # Mac App Store app(s)
 mas 'Amphetamine', id: 937984704
